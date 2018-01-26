@@ -1,0 +1,125 @@
+CONTAINS FRONT PAGE TEXT, HOW TO TEXT, FAQ TEXT
+
+NOTE: replace /ponzi_website/page/images/agency-landing/welcome-cover.jpg with https://i.ytimg.com/vi/c9J-4N8lfWM/maxresdefault.jpg
+
+Don't mention in chat who did the text please.
+
+------------------------------------------------------------------
+
+Headline: The World's Third Legitimate Ponzi Scheme
+
+Headline2: Because bagholders do grow on trees...
+
+
+
+How It Works:
+
+
+Invest in PoWH (Proof of Weak Hands)
+
+Buy PonziBlocks tokens (symbol: POWH) from the Smart Contract with ETH at the current price. The only token 100% backed by PoWH (Proof of Weak Hands).
+
+
+
+It Pumps (and dumps) Itself
+
+Every time a token is bought, the Smart Contract increases the current price. Every time a token is sold back to the contract, the Smart Contract decreases the current price.
+
+
+
+Collect Dividends
+
+Whenever a token is bought by another bagholder, 5% of the price is distributed to all existing token holders. Dividends can be cashed out at any time without selling your actual POWH tokens.
+
+
+
+Cash Out
+
+You can sell your POWH back to the Smart Contract for the current price. If you sell right after aquiring them you will get 95% of your ETH back. If others buy after you, the POWH-price will rise and you will have made a profit.
+How weak are your hands? 
+
+
+
+
+
+Guide to Get Rich Quick:
+
+
+Step 1: Invest
+
+[UNCHANGED]
+
+Step 2: HODL
+
+Whenever a token is sold, 5% of the price is distributed to all existing token holders and the overall token-price goes up.
+The longer you HODL, the more dividends you will collect and the higher the price will be at which you can sell back your tokens to the contract!
+
+
+Step 3: Shill
+
+[UNCHANGED]
+
+
+Step 4: Profit
+
+[UNCHANGED]
+
+
+
+FAQ:
+
+
+Q: Didn't there use to be a site just like this recently?
+
+A: Yes PonziBlocks is a hardfork of "PonziCoin" by the notorious outlaw Rishab-Pajeet-Hegdes (otherwise known as "Sahym Haideens tanned sidekick"). However <b>this time it's different</b> as through the implementation of JoHoe's superior Proof Of Weak Hands ponzitoken contract (https://test.jochen-hoenicke.de/eth/ponzitoken/) a groundbreaking paradigm shift in scamming normies(thats you) has been achieved. 
+You should go donate to JoHoe right now by the way. Bitcoin: 3LrXizKejCGYyGUxYzGweyuxFVtfs3odEe (Segwit), Bitcoin Cash: qqc0a3s49uzj329rju4v27erlc6kx5paqs6t5l70n6 , Litecoin: MK7jfGG48RTsETCXTAz1wP27uVoFhBUV5o
+
+
+
+Q: Is this a real thing?
+
+A: Yes, POWH (Proof of Weak Hands) is an ERC20 standard token built on the ethereum blockchain that you can sell on this site and which will collect dividends while you hodl.
+
+
+Q: How does this work? Can I actually cash out? 
+
+A: You buy Tokens and receive a dividend from all buyers who aquire tokens after you. And the Tokens price also increases with each buy and decreases with each sell. You can cash out your ETH Dividends and/or sell your tokens to the contract at any time. Its a scam though. Do not buy these tokens.
+
+
+
+Q: Can I actually make money off of this?
+
+A: Yes! It's possible to cash out at the current price and/or collect dividends, so to make money you would need to either wait until the price rises or simply HODL and collect dividends from each buyer that aquires POWH after you. Or both! Its more likely you will lose your ETH though. How weak are your hands?
+
+
+Q: What do I need to buy into this Ponzi Scheme?
+
+A: You need to install Metamask and also need to buy some Ether (ETH), probably from something like Coinbase.
+
+
+Q: This seems like a great investment opportunity! I need to get back all the money I lost in BitConnect, so can I put my entire pension fund/college fund/retirement savings/second home mortgage in?
+
+A: No, this is a joke. Don't put any significant amount of money in this, follow /r/personalfinance's advice and please don't invest more than you can lose in crypto.
+
+
+Q: Is this a scam?
+
+A: Yes, it's as much a scam as 99% of the ICOs out there, but it's more transparent about it :). Your money is not safe in POWH. How weak are your hands?
+
+
+Q: Is this site secure?
+
+A: We use Equifax-grade security. How weak are your hands?
+
+
+Q: Is this coin pre-mined?
+
+A: NO. Unlike Rishab-Pajeet-Hegdes' contract there are no premined tokens with POWH! You will likely still get dumped on by other bagholders or otherwise lose your "investment".
+
+
+Q: This seems to be too good to be true, how am I getting screwed?
+
+A: It's a literal pyramid scheme. You are fairly likely to be one of the last people to buy POWH tokens, which means you may lose some or all of your investment if only few bagholders buy after you or you get dumped on. There's also a chance the contract runs out of money or gets hacked in which case you could lose all of your investment.
+
+
+
