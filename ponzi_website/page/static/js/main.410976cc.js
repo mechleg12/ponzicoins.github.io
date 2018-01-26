@@ -13077,12 +13077,12 @@
                         className: "card-title"
                     }, "Buy Price"), s.a.createElement("h1", {
                         className: "card-text"
-                    }, "~",(1 / this.state.buyPrice).toFixed(5), " ETH"), s.a.createElement("p", {
+                    }, ((1 / this.state.buyPrice)/1000).toFixed(6), " ETH"), s.a.createElement("p", {
                         className: "card-text",
                         style: {
                             marginTop: -15
                         }
-                    }, "$", (this.state.buyPrice * this.state.ethPrice).toFixed(2)), s.a.createElement("p", {
+                    }, "$", (((1 / this.state.buyPrice)/1000) * this.state.ethPrice).toFixed(2)), s.a.createElement("p", {
                         className: "card-text",
                         style: {
                             color: "green",
@@ -13102,12 +13102,12 @@
                         className: "card-title"
                     }, "Sell Price"), s.a.createElement("h1", {
                         className: "card-text"
-                    }, "~", (this.state.sellPrice).toFixed(5), " ETH"), s.a.createElement("p", {
+                    }, ((this.state.sellPrice)/1000).toFixed(6), " ETH"), s.a.createElement("p", {
                         className: "card-text",
                         style: {
                             marginTop: -15
                         }
-                    }, "$", (this.state.sellPrice * this.state.ethPrice).toFixed(2)), s.a.createElement("p", {
+                    }, "$", (((this.state.sellPrice)/1000) * this.state.ethPrice).toFixed(2)), s.a.createElement("p", {
                         className: "card-text",
                         style: {
                             color: "green",
@@ -13130,7 +13130,7 @@
                         className: "card-title"
                     }, "Balance"), s.a.createElement("h1", {
                         className: "card-text"
-                    }, (this.state.currentBalance).toFixed(4)), s.a.createElement("p", {
+                    }, (this.state.currentBalance*1000).toFixed(2)), s.a.createElement("p", {
                         className: "card-text",
                         style: {
                             fontSize: 20,
@@ -19468,7 +19468,7 @@
                     var e = this,
                         t = s.a.createElement("div", null, s.a.createElement("div", {
                             className: "modal-body"
-                        }, s.a.createElement("p", null, s.a.createElement("b", null, "Current Price per Token: ", this.props.price, " ETH")), s.a.createElement("p", null, s.a.createElement("i", {
+                        }, s.a.createElement("p", null, s.a.createElement("b", null, "Current Price per Token: ", ((1/this.props.price)/1000).toFixed(18), " ETH")), s.a.createElement("p", null, s.a.createElement("i", {
                             className: "fa fa-warning",
                             style: {
                                 color: "#ffbc19"
@@ -22426,33 +22426,10 @@
                     }, "Tokens to sell exceeds current balance"));
                     var r = s.a.createElement("div", null, s.a.createElement("div", {
                         className: "modal-body"
-                    }, s.a.createElement("p", null, "You currently own ", s.a.createElement("b", null, this.props.balance), " PonziCoins. The current sell price is ", s.a.createElement("b", null, this.props.price), " ETH"), s.a.createElement("p", null, "As long as the contract still has ETH available, this price is guaranteed, you will get ", this.props.price, " ETH (or more) per PonziCoin"), s.a.createElement("label", {
+                    }, s.a.createElement("p", null, "You currently own ", s.a.createElement("b", null, (this.props.balance*1000).toFixed(2)), " PonziCoins. The current sell price is ", s.a.createElement("b", null, (this.props.price/1000).toFixed(6)), " ETH"), s.a.createElement("p", null, "As long as the contract still has ETH available, this price is guaranteed, you will get ", (this.props.price/1000).toFixed(6), " ETH (or more) per PonziCoin"), s.a.createElement("label", {
                         htmlFor: "eth-value",
                         className: "col-form-label"
-                    }, "Number of Tokens to Sell"), s.a.createElement("div", null, s.a.createElement("input", {
-                        type: "number",
-                        id: "eth-value",
-                        value: this.state.tokenValue,
-                        className: t,
-                        placeholder: "(e.g. 0.5)",
-                        onChange: function(t) {
-                            e.setState({
-                                tokenValue: t.target.value
-                            })
-                        },
-                        style: {
-                            width: "75%",
-                            float: "left"
-                        }
-                    }), s.a.createElement("button", {
-                        type: "button",
-                        className: "btn btn-primary",
-                        onClick: function() {
-                            e.setState({
-                                tokenValue: e.props.balance
-                            })
-                        }
-                    }, " 100% ")), s.a.createElement("br", null), n, s.a.createElement("p", null, "You will get approximately ", s.a.createElement("b", null, (this.props.price * this.state.tokenValue).toFixed(3)), " ETH")), s.a.createElement("div", {
+                    }, "Cashout tokens will sell your tokens and add the ether to your dividends pool"), s.a.createElement("br", null), n, s.a.createElement("p", null, "Cashout dividends will withdraw the ether in your dividends pool")), s.a.createElement("div", {
                         className: "modal-footer"
                     }, s.a.createElement("button", {
                         type: "button",
